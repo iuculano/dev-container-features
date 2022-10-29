@@ -2,7 +2,7 @@
     "name": "Zig",
     "id": "zig-lang",
     "version": "1.0.0",
-    "description": "A feature to remind you of your favorite color",
+    "description": "Zig programming language.",
     "options": {
         "version": {
             "type": "string",
